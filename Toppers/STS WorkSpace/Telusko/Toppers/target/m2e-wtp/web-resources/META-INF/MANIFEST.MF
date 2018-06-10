@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TopStudents
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: madan
+Implementation-Vendor-Id: com.telusko
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TopStudents
+Created-By: Maven Integration for Eclipse
+
